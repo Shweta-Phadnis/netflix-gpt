@@ -10,6 +10,7 @@
 # Features
 -Login/sign up
     -Sign in/ Sign up form
+        Build login form
     - Redirect to browse page
 -Browse: Only after authentication
     -Header
